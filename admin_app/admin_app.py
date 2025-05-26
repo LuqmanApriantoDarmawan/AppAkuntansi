@@ -81,7 +81,7 @@ class AdminApp(QMainWindow):
             }
             QTabWidget::pane {
                 border: 1px solid #d0d0d0;
-                background: white;
+                background: red;
             }
             QTabBar::tab {
                 background: #e0e0e0;
